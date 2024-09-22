@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    margin-left: 5%;
+}
+
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 10%;
+}
+
+td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: justify;
+}
+
+th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+address {
+    margin-left: 5%;
+}
+
+iframe {
+    width: 100%;
+    height: 360px;
+}
+
+#center {
+    text-align: center;
+}
+
+#contato {
+    margin-left: 5%;
+}
+
+#apresentacao {
+    text-align: center;
+}
